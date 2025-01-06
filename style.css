@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size:3rem;
+}
+
+h3{
+    text-align: center;
+    font-weight: bold;
+    font-size:1rem;
+    margin: 20px;
+}
+
+
+.playerChoice{
+    display: flex;
+    justify-content: center;
+    flex-direction:row;
+}
+#choices{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    margin: 10px;
+}
+
+.btns{
+    font-size: 7rem;
+    background-color: rgb(108, 198, 228);
+    border-radius: 50%;
+    margin: 30px;
+    padding: 10px;
+    box-shadow: 0 0 15px hsl(0, 0%, 10%,0.9);
+}
